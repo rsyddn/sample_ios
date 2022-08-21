@@ -1,0 +1,1 @@
+../../../../../sample_flutter/.ios/.symlinks/plugins/connectivity_plus/ios/Classes/ConnectivityPlusPlugin.h
